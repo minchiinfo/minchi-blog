@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>minchi-blog</title>
-    <link href="https://github.com/minchiinfo/minchi-blog.git/feed.xml" rel="self" />
-    <link href="https://github.com/minchiinfo/minchi-blog.git" />
+    <link href="https://minchiinfo.github.io/minchi-blog/feed.xml" rel="self" />
+    <link href="https://minchiinfo.github.io/minchi-blog" />
     <updated>2025-10-17T17:38:16+09:00</updated>
     <author>
         <name>minchi</name>
     </author>
-    <id>https://github.com/minchiinfo/minchi-blog.git</id>
+    <id>https://minchiinfo.github.io/minchi-blog</id>
 
     <entry>
         <title>サイトリニューアル</title>
         <author>
             <name>minchi</name>
         </author>
-        <link href="https://github.com/minchiinfo/minchi-blog.git/saitoriniyuaru.html"/>
-        <id>https://github.com/minchiinfo/minchi-blog.git/saitoriniyuaru.html</id>
+        <link href="https://minchiinfo.github.io/minchi-blog/saitoriniyuaru.html"/>
+        <id>https://minchiinfo.github.io/minchi-blog/saitoriniyuaru.html</id>
             <category term="news"/>
 
         <updated>2025-10-17T16:48:04+09:00</updated>
@@ -26,7 +26,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <figure class="post__image"><img loading="lazy"  src="https://github.com/minchiinfo/minchi-blog.git/media/posts/1/tumblr_e277a18e89c97b64c2ee47c253040001_14b64879_1280-2.jpg" alt="" width="1000" height="1071" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://github.com/minchiinfo/minchi-blog.git/media/posts/1/responsive/tumblr_e277a18e89c97b64c2ee47c253040001_14b64879_1280-2-xs.jpg 640w ,https://github.com/minchiinfo/minchi-blog.git/media/posts/1/responsive/tumblr_e277a18e89c97b64c2ee47c253040001_14b64879_1280-2-sm.jpg 768w ,https://github.com/minchiinfo/minchi-blog.git/media/posts/1/responsive/tumblr_e277a18e89c97b64c2ee47c253040001_14b64879_1280-2-md.jpg 1024w ,https://github.com/minchiinfo/minchi-blog.git/media/posts/1/responsive/tumblr_e277a18e89c97b64c2ee47c253040001_14b64879_1280-2-lg.jpg 1366w ,https://github.com/minchiinfo/minchi-blog.git/media/posts/1/responsive/tumblr_e277a18e89c97b64c2ee47c253040001_14b64879_1280-2-xl.jpg 1600w ,https://github.com/minchiinfo/minchi-blog.git/media/posts/1/responsive/tumblr_e277a18e89c97b64c2ee47c253040001_14b64879_1280-2-2xl.jpg 1920w"></figure>
+                <figure class="post__image"><img loading="lazy"  src="https://minchiinfo.github.io/minchi-blog/media/posts/1/tumblr_e277a18e89c97b64c2ee47c253040001_14b64879_1280-2.jpg" alt="" width="1000" height="1071" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://minchiinfo.github.io/minchi-blog/media/posts/1/responsive/tumblr_e277a18e89c97b64c2ee47c253040001_14b64879_1280-2-xs.jpg 640w ,https://minchiinfo.github.io/minchi-blog/media/posts/1/responsive/tumblr_e277a18e89c97b64c2ee47c253040001_14b64879_1280-2-sm.jpg 768w ,https://minchiinfo.github.io/minchi-blog/media/posts/1/responsive/tumblr_e277a18e89c97b64c2ee47c253040001_14b64879_1280-2-md.jpg 1024w ,https://minchiinfo.github.io/minchi-blog/media/posts/1/responsive/tumblr_e277a18e89c97b64c2ee47c253040001_14b64879_1280-2-lg.jpg 1366w ,https://minchiinfo.github.io/minchi-blog/media/posts/1/responsive/tumblr_e277a18e89c97b64c2ee47c253040001_14b64879_1280-2-xl.jpg 1600w ,https://minchiinfo.github.io/minchi-blog/media/posts/1/responsive/tumblr_e277a18e89c97b64c2ee47c253040001_14b64879_1280-2-2xl.jpg 1920w"></figure>
 <p>サイトをようやくリニューアルしました。<br><br>夏なのにトップページの絵が冬っぽいですが気にしないでください。<br><a href="https://minchi.info/" target="_blank" rel="noopener">https://minchi.info</a></p>
 <p>今までWord Pressを使ってサイトを作っていたんですが、自作のテーマ（デザイン）を使って変なやり方をしていたために新しいテーマに変えるのが難しくて（表示が崩れてしまう）一旦Word Pressで作るのをやめようとしていました。<br><br>で、去年の3月ぐらいに一回リニューアルを試みたんですが、レスポンシブデザイン（PCやスマホなどの画面サイズが異なるデバイスで表示できるようにする）が上手くできなくてずっーと放置状態になっていました。</p>
 <p>それから１年以上経過して、やっぱり今の状態ではスマホから見ずらいし、そのためにブログの方も停止状態になっていたので、どうにかしたいなと思い立ってもう一回チャレンジしてみたらなんとなく上手くいったかも？しれないです…？</p>

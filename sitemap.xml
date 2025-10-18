@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://github.com/minchiinfo/minchi-blog.git/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://minchiinfo.github.io/minchi-blog/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://github.com/minchiinfo/minchi-blog.git/</loc>
+<loc>https://minchiinfo.github.io/minchi-blog/</loc>
 </url>
 <url>
-<loc>https://github.com/minchiinfo/minchi-blog.git/saitoriniyuaru.html</loc>
+<loc>https://minchiinfo.github.io/minchi-blog/saitoriniyuaru.html</loc>
 <lastmod>2025-10-17T17:38:16+09:00</lastmod>
 <image:image>
-<image:loc>https://github.com/minchiinfo/minchi-blog.git/media/posts/1/tumblr_e277a18e89c97b64c2ee47c253040001_14b64879_1280-2.jpg</image:loc>
+<image:loc>https://minchiinfo.github.io/minchi-blog/media/posts/1/tumblr_e277a18e89c97b64c2ee47c253040001_14b64879_1280-2.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
