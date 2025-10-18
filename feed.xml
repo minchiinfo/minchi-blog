@@ -3,12 +3,36 @@
     <title>minchi / news</title>
     <link href="https://minchiinfo.github.io/minchi-blog/feed.xml" rel="self" />
     <link href="https://minchiinfo.github.io/minchi-blog" />
-    <updated>2025-10-19T04:18:37+09:00</updated>
+    <updated>2025-10-19T05:11:24+09:00</updated>
     <author>
         <name>minchi</name>
     </author>
     <id>https://minchiinfo.github.io/minchi-blog</id>
 
+    <entry>
+        <title>ぬめり</title>
+        <author>
+            <name>minchi</name>
+        </author>
+        <link href="https://minchiinfo.github.io/minchi-blog/numeri.html"/>
+        <id>https://minchiinfo.github.io/minchi-blog/numeri.html</id>
+
+        <updated>2025-10-19T05:11:24+09:00</updated>
+            <summary>
+                <![CDATA[
+                    「今月のゲストクリエイターズ」のコーナーにもご紹介いただきました。ありがとうございます！ https://numero.jp/magazine180/&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="画像の追加" data-columns="2">
+<figure class="gallery__item"><a href="https://minchiinfo.github.io/minchi-blog/media/posts/14/gallery/2011_11_27_gems.jpg" data-size="700x1015"><img loading="lazy" src="https://minchiinfo.github.io/minchi-blog/media/posts/14/gallery/2011_11_27_gems-thumbnail.jpg" alt="" width="700" height="1015"></a></figure>
+<figure class="gallery__item"><a href="https://minchiinfo.github.io/minchi-blog/media/posts/14/gallery/kurinukiniyuusitiyannui_high-nokohi.jpg" data-size="2268x2268"><img loading="lazy" src="https://minchiinfo.github.io/minchi-blog/media/posts/14/gallery/kurinukiniyuusitiyannui_high-nokohi-thumbnail.jpg" alt="" width="720" height="720"></a></figure>
+</div></div>
+<p>「今月のゲストクリエイターズ」のコーナーにもご紹介いただきました。ありがとうございます！<br><a target="_blank" rel="noopener noreferrer">https://numero.jp/magazine180/</a><br><br>1枚目の写真は原画。2枚目の写真は制作の様子。アクリルガッシュ、色鉛筆、コピックマルチライナーで制作。<br><br>ちなみに絵の中の紫のキャラはトリカブトの花です。</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>３つめの記事です</title>
         <author>
