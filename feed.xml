@@ -3,7 +3,7 @@
     <title>minchi / news</title>
     <link href="https://minchiinfo.github.io/minchi-blog/feed.xml" rel="self" />
     <link href="https://minchiinfo.github.io/minchi-blog" />
-    <updated>2025-10-18T11:16:59+09:00</updated>
+    <updated>2025-10-18T21:20:05+09:00</updated>
     <author>
         <name>minchi</name>
     </author>
@@ -14,8 +14,8 @@
         <author>
             <name>minchi</name>
         </author>
-        <link href="https://minchiinfo.github.io/minchi-blog/numero-tokyo.html"/>
-        <id>https://minchiinfo.github.io/minchi-blog/numero-tokyo.html</id>
+        <link href="https://minchiinfo.github.io/minchi-blog/2_numero-tokyo.html"/>
+        <id>https://minchiinfo.github.io/minchi-blog/2_numero-tokyo.html</id>
         <media:content url="https://minchiinfo.github.io/minchi-blog/media/posts/2/tumblr_a7e9b99318fad2dfdffcaa642b9cdcd6_460a57ea_1280-2.jpg" medium="image" />
             <category term="news"/>
 
@@ -55,14 +55,14 @@
         <author>
             <name>minchi</name>
         </author>
-        <link href="https://minchiinfo.github.io/minchi-blog/new-site.html"/>
-        <id>https://minchiinfo.github.io/minchi-blog/new-site.html</id>
+        <link href="https://minchiinfo.github.io/minchi-blog/1_new-site.html"/>
+        <id>https://minchiinfo.github.io/minchi-blog/1_new-site.html</id>
             <category term="news"/>
 
         <updated>2025-10-17T16:48:04+09:00</updated>
             <summary>
                 <![CDATA[
-                    サイトをようやくリニューアルしました。 夏なのにトップページの絵が冬っぽいですが気にしないでください。 https://minchi.info 今までWord Pressを使ってサイトを作っていたんですが、自作のテーマ（デザイン）を使って変なやり方をしていたために新しいテーマに変えるのが難しくて（表示が崩れてしまう）一旦Word Pressで作るのをやめようとしていました。 で、去年の3月ぐらいに一回リニューアルを試みたんですが、レスポンシブデザイン（PCやスマホなどの画面サイズが異なるデバイスで表示できるようにする）が上手くできなくてずっーと放置状態になっていました。 それから１年以上経過して、やっぱり今の状態ではスマホから見ずらいし、そのためにブログの方も停止状態になっていたので、どうにかしたいなと思い立ってもう一回チャレンジしてみたらなんとなく上手くいったかも？しれないです…？ 「1冊ですべて身に付く HTML &amp; CSSとWebデザイン入門講座」という本と、こちらのサイトがとても役に立ちました。 https://atmarkit.itmedia.co.jp/ait/articles/1403/20/news050.html 一応自分の環境ではちゃんと見れているんですが、それ以外の環境はわからないので、もし何か不具合などあればお知らせしてもらえると助かります。 ギャラリー（artwork）と更新情報のまとめブログ（news）は1から設置する元気がなくてtumblrで作りました。tumblrはまだ使い始めたばかりでカスタマイズ方法がよくわかりません。 tumblrをやっていない方が見ると、tumblrへのお誘い広告みたいなものが出るのでもしかしたらちょっと見ずらいかもしれません。 外部のサイトはサービス内容が変更になったり終了したりなどもあるので、出来れば全部自分で作りたかったんですが、ギャラリーなんかは作品が多くて手がつけられない状態になっています。 また色々良い方法がないか考えてみたいと思います。 ちなみにギャラリー（artwork）の方はまだ工事中の状態です。ぼちぼち作品を追加していきたいと思ってます。 前のサイトは消していないので過去作品が見たい方はこちら↓からどうぞ。 https://minchi.info/news/
+                    サイトをようやくリニューアルしました。 夏なのにトップページの絵が冬っぽいですが気にしないでください。 https://minchi.info 今までWord Pressを使ってサイトを作っていたんですが、自作のテーマ（デザイン）を使って変なやり方をしていたために新しいテーマに変えるのが難しくて（表示が崩れてしまう）一旦Word Pressで作るのをやめようとしていました。 で、去年の3月ぐらいに一回リニューアルを試みたんですが、レスポンシブデザイン（PCやスマホなどの画面サイズが異なるデバイスで表示できるようにする）が上手くできなくてずっーと放置状態になっていました。 それから１年以上経過して、やっぱり今の状態ではスマホから見ずらいし、そのためにブログの方も停止状態になっていたので、どうにかしたいなと思い立ってもう一回チャレンジしてみたらなんとなく上手くいったかも？しれないです…？ 「1冊ですべて身に付く HTML &amp; CSSとWebデザイン入門講座」という本と、こちらのサイトがとても役に立ちました。 https://atmarkit.itmedia.co.jp/ait/articles/1403/20/news050.html 一応自分の環境ではちゃんと見れているんですが、それ以外の環境はわからないので、もし何か不具合などあればお知らせしてもらえると助かります。 ギャラリー（artwork）と更新情報のまとめブログ（news）は1から設置する元気がなくてtumblrで作りました。tumblrはまだ使い始めたばかりでカスタマイズ方法がよくわかりません。 tumblrをやっていない方が見ると、tumblrへのお誘い広告みたいなものが出るのでもしかしたらちょっと見ずらいかもしれません。 外部のサイトはサービス内容が変更になったり終了したりなどもあるので、出来れば全部自分で作りたかったんですが、ギャラリーなんかは作品が多くて手がつけられない状態になっています。 また色々良い方法がないか考えてみたいと思います。 ちなみにギャラリー（artwork）の方はまだ工事中の状態です。ぼちぼち作品を追加していきたいと思ってます。 前のサイトは消していないので過去作品が見たい方はこちら↓からどうぞ。 https://minchi.info/news/ 2024.8.13
                 ]]>
             </summary>
         <content type="html">
@@ -79,6 +79,7 @@
 <p>また色々良い方法がないか考えてみたいと思います。</p>
 <p>ちなみにギャラリー（artwork）の方はまだ工事中の状態です。ぼちぼち作品を追加していきたいと思ってます。</p>
 <p>前のサイトは消していないので過去作品が見たい方はこちら↓からどうぞ。<br><a href="https://minchi.info/news/" target="_blank" rel="noopener">https://minchi.info/news/</a></p>
+<p>2024.8.13</p>
             ]]>
         </content>
     </entry>
