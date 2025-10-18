@@ -3,12 +3,35 @@
     <title>minchi / news</title>
     <link href="https://minchiinfo.github.io/minchi-blog/feed.xml" rel="self" />
     <link href="https://minchiinfo.github.io/minchi-blog" />
-    <updated>2025-10-18T21:20:05+09:00</updated>
+    <updated>2025-10-18T22:35:50+09:00</updated>
     <author>
         <name>minchi</name>
     </author>
     <id>https://minchiinfo.github.io/minchi-blog</id>
 
+    <entry>
+        <title>テスト</title>
+        <author>
+            <name>minchi</name>
+        </author>
+        <link href="https://minchiinfo.github.io/minchi-blog/tesuto.html"/>
+        <id>https://minchiinfo.github.io/minchi-blog/tesuto.html</id>
+
+        <updated>2025-10-18T22:35:50+09:00</updated>
+            <summary>
+                <![CDATA[
+                    有効にすると、すべてのタグから関連投稿が取得されます。無効にすると、現在の投稿と同じタグからのみ関連投稿が生成されます。 有効にすると、すべてのタグから関連投稿が取得されます。無効にすると、現在の投稿と同じタグからのみ関連投稿が生成されます。有効にすると、すべてのタグから関連投稿が取得されます。無効にすると、現在の投稿と同じタグからのみ関連投稿が生成されます。&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://minchiinfo.github.io/minchi-blog/media/posts/5/kurinukiniyuusitiyannui_high-nokohi.jpg" alt="" width="2268" height="2268" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://minchiinfo.github.io/minchi-blog/media/posts/5/responsive/kurinukiniyuusitiyannui_high-nokohi-xs.jpg 640w ,https://minchiinfo.github.io/minchi-blog/media/posts/5/responsive/kurinukiniyuusitiyannui_high-nokohi-sm.jpg 768w ,https://minchiinfo.github.io/minchi-blog/media/posts/5/responsive/kurinukiniyuusitiyannui_high-nokohi-md.jpg 1024w ,https://minchiinfo.github.io/minchi-blog/media/posts/5/responsive/kurinukiniyuusitiyannui_high-nokohi-lg.jpg 1366w ,https://minchiinfo.github.io/minchi-blog/media/posts/5/responsive/kurinukiniyuusitiyannui_high-nokohi-xl.jpg 1600w ,https://minchiinfo.github.io/minchi-blog/media/posts/5/responsive/kurinukiniyuusitiyannui_high-nokohi-2xl.jpg 1920w"></figure>
+<p>有効にすると、すべてのタグから関連投稿が取得されます。無効にすると、現在の投稿と同じタグからのみ関連投稿が生成されます。</p>
+<p>有効にすると、すべてのタグから関連投稿が取得されます。無効にすると、現在の投稿と同じタグからのみ関連投稿が生成されます。有効にすると、すべてのタグから関連投稿が取得されます。無効にすると、現在の投稿と同じタグからのみ関連投稿が生成されます。</p>
+<p>有効にすると、すべてのタグから関連投稿が取得されます。無効にすると、現在の投稿と同じタグからのみ関連投稿が生成されます。</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>『Numéro TOKYO』2024年10月号</title>
         <author>
