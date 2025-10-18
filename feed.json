@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "minchi-blog",
+    "title": "minchi / news",
     "description": "",
     "home_page_url": "https://minchiinfo.github.io/minchi-blog",
     "feed_url": "https://minchiinfo.github.io/minchi-blog/feed.json",
