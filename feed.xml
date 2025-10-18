@@ -3,7 +3,7 @@
     <title>minchi / news</title>
     <link href="https://minchiinfo.github.io/minchi-blog/feed.xml" rel="self" />
     <link href="https://minchiinfo.github.io/minchi-blog" />
-    <updated>2025-10-19T04:11:21+09:00</updated>
+    <updated>2025-10-19T04:18:37+09:00</updated>
     <author>
         <name>minchi</name>
     </author>
@@ -16,6 +16,7 @@
         </author>
         <link href="https://minchiinfo.github.io/minchi-blog/3tumenoji-shi-desu.html"/>
         <id>https://minchiinfo.github.io/minchi-blog/3tumenoji-shi-desu.html</id>
+            <category term="exhibition"/>
 
         <updated>2025-10-19T04:11:21+09:00</updated>
             <summary>
@@ -42,6 +43,7 @@
         </author>
         <link href="https://minchiinfo.github.io/minchi-blog/tetetetetesuto.html"/>
         <id>https://minchiinfo.github.io/minchi-blog/tetetetetesuto.html</id>
+            <category term="news"/>
 
         <updated>2025-10-19T03:51:16+09:00</updated>
             <summary>
