@@ -3,12 +3,38 @@
     <title>minchi / news</title>
     <link href="https://minchiinfo.github.io/minchi-blog/feed.xml" rel="self" />
     <link href="https://minchiinfo.github.io/minchi-blog" />
-    <updated>2025-10-18T23:58:47+09:00</updated>
+    <updated>2025-10-19T00:06:13+09:00</updated>
     <author>
         <name>minchi</name>
     </author>
     <id>https://minchiinfo.github.io/minchi-blog</id>
 
+    <entry>
+        <title>テストだよーー</title>
+        <author>
+            <name>minchi</name>
+        </author>
+        <link href="https://minchiinfo.github.io/minchi-blog/tesutodayo.html"/>
+        <id>https://minchiinfo.github.io/minchi-blog/tesutodayo.html</id>
+
+        <updated>2025-10-19T00:06:13+09:00</updated>
+            <summary>
+                <![CDATA[
+                    あああああああああああああああああああああ。あああああああああああああああああああああああああああああああああああああああああ。ああああああ ああああああああああああああ。ああああああああああああああああああああああああああああああ。
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://minchiinfo.github.io/minchi-blog/media/posts/7/gallery/2011_11_27_gems.jpg" data-size="700x1015"><img loading="lazy" src="https://minchiinfo.github.io/minchi-blog/media/posts/7/gallery/2011_11_27_gems-thumbnail.jpg" alt="" width="700" height="1015"></a></figure>
+<figure class="gallery__item"><a href="https://minchiinfo.github.io/minchi-blog/media/posts/7/gallery/kurinukiniyuusitiyannui_high-nokohi.jpg" data-size="2268x2268"><img loading="lazy" src="https://minchiinfo.github.io/minchi-blog/media/posts/7/gallery/kurinukiniyuusitiyannui_high-nokohi-thumbnail.jpg" alt="" width="720" height="720"></a></figure>
+<figure class="gallery__item"><a href="https://minchiinfo.github.io/minchi-blog/media/posts/7/gallery/tumblr_9c7d732486ac3553c711eca3cc13bf91_c77c666e_1280.jpg" data-size="1185x1500"><img loading="lazy" src="https://minchiinfo.github.io/minchi-blog/media/posts/7/gallery/tumblr_9c7d732486ac3553c711eca3cc13bf91_c77c666e_1280-thumbnail.jpg" alt="" width="720" height="911"></a></figure>
+</div></div>
+<p>あああああああああああああああああああああ。あああああああああああああああああああああああああああああああああああああああああ。ああああああ</p>
+<p>ああああああああああああああ。ああああああああああああああああああああああああああああああ。</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>テストテストテストテスト</title>
         <author>
