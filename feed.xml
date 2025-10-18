@@ -3,7 +3,7 @@
     <title>minchi / news</title>
     <link href="https://minchiinfo.github.io/minchi-blog/feed.xml" rel="self" />
     <link href="https://minchiinfo.github.io/minchi-blog" />
-    <updated>2025-10-18T10:58:48+09:00</updated>
+    <updated>2025-10-18T11:16:59+09:00</updated>
     <author>
         <name>minchi</name>
     </author>
@@ -14,8 +14,8 @@
         <author>
             <name>minchi</name>
         </author>
-        <link href="https://minchiinfo.github.io/minchi-blog/numero-tokyo-2024nian-10yue-hao.html"/>
-        <id>https://minchiinfo.github.io/minchi-blog/numero-tokyo-2024nian-10yue-hao.html</id>
+        <link href="https://minchiinfo.github.io/minchi-blog/numero-tokyo.html"/>
+        <id>https://minchiinfo.github.io/minchi-blog/numero-tokyo.html</id>
         <media:content url="https://minchiinfo.github.io/minchi-blog/media/posts/2/tumblr_a7e9b99318fad2dfdffcaa642b9cdcd6_460a57ea_1280-2.jpg" medium="image" />
             <category term="news"/>
 
@@ -55,8 +55,8 @@
         <author>
             <name>minchi</name>
         </author>
-        <link href="https://minchiinfo.github.io/minchi-blog/saitoriniyuaru.html"/>
-        <id>https://minchiinfo.github.io/minchi-blog/saitoriniyuaru.html</id>
+        <link href="https://minchiinfo.github.io/minchi-blog/new-site.html"/>
+        <id>https://minchiinfo.github.io/minchi-blog/new-site.html</id>
             <category term="news"/>
 
         <updated>2025-10-17T16:48:04+09:00</updated>
